@@ -1,0 +1,17 @@
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/build-iphone7.2-9.2.1/actool/partial-info.plist
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/build-iphone7.2-9.2.1/actool/asset-manifest.plist
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/optimized/
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/TestApp.iOS.exe.mdb
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/TestApp.iOS.exe
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/TestApp.iOS.exe
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/obj/iPhone/Debug/TestApp.iOS.exe.mdb
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/TestApp.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/iOS/bin/iPhone/Debug/TestApp.dll.mdb

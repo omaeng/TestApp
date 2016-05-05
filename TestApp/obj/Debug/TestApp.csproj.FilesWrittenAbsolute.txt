@@ -1,0 +1,9 @@
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/bin/Debug/TestApp.dll.mdb
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/bin/Debug/TestApp.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/obj/Debug/TestApp.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/obj/Debug/TestApp.dll.mdb
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/obj/Debug/TestApp.MainPage.xaml
+/Users/omyeonghun/Documents/Study/CShap/TestApp/TestApp/obj/Debug/MainPage.xaml.g.cs
